@@ -27,7 +27,9 @@ class Background extends React.Component {
   
     return (
       <div>
-          
+          <button><img src="./icons/school.png" alt="school Icon"></img></button>
+          <button><img src="./icons/tent.png" alt="tent Icon"></img></button>
+          <button><img src="./icons/traffic.png" alt="traffic Icon"></img></button>
       </div>
     );
   }
